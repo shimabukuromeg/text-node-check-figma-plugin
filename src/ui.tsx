@@ -1,5 +1,5 @@
-import 'prismjs/components/prism-clike.js'
-import 'prismjs/components/prism-javascript.js'
+// import 'prismjs/components/prism-clike.js'
+// import 'prismjs/components/prism-javascript.js'
 import '!prismjs/themes/prism.css'
 
 import {
