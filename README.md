@@ -1,4 +1,4 @@
-# React Editor
+# Text node check figma plugin
 
 ## Development guide
 

@@ -24,7 +24,7 @@
       "figma"
     ],
     "id": "react-editor",
-    "name": "React Editor",
+    "name": "Text node check figma plugin",
     "main": "src/main.ts",
     "ui": "src/ui.tsx"
   }
